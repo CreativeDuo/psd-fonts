@@ -1,10 +1,10 @@
-# psd-fonts
+# PSD Fonts
 
-Script to get the list of all fonts used in a PSD (Photoshop) file.
+Script to get the list of all fonts used in a PSD (Photoshop®) file.
 
 ## Usage
 
-You only need to open a PSD file in your Photoshop, then go to `File` menu and choose `Scripts` » `Search`, and choose the script from where you saved it.
+You only need to open a PSD file in your Photoshop®, then go to `File` menu and choose `Scripts` » `Search`, and choose the script from where you saved it.
 
 The script may take a while to run, depending on the number of layer you have in your file.
 
@@ -19,4 +19,8 @@ Font name,Size,Color (hex)
 
 ## Bugs
 
-I only tested this script in the current Photoshop version (CC 2014). If you find some bug in another version, please open an issue.
+I only tested this script in the current Photoshop® version (CC 2014). If you find some bug in another version, please open an issue.
+
+## Legal notice
+
+Photoshop® is either registered trademark or trademark of Adobe Systems Incorporated in the United States and/or other countries.
